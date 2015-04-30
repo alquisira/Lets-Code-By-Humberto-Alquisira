@@ -19,11 +19,16 @@ Incluye herramientas básicas de un editor de código como son:
   $ruta="/"; 
 
   //LOGIN
+  
   $usuario="tuusuario";
+  
   $password="tupassword";
+  
 
   //Tu dominio
+  
   $dominio="http://www.tudominio.com/";
+  
   
 * Guarda los cambios
 * Sube toda la carpeta "editor" en la raiz de tu servidor
