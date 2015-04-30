@@ -13,8 +13,10 @@ Incluye herramientas básicas de un editor de código como son:
 * Descargue el editor y descomprima segun sea el caso
 * modifique el archivo "config.php"
   
-  directorio permitido desde donde se podrá editar
-  $ruta="/"; //Importante comenzar sin / y finalizar con / ejemplo $ruta="directorio/"
+   //ruta permitida desde donde se podrá editar
+   //Importante comenzar sin / y finalizar con /
+
+  $ruta="/"; 
 
   //LOGIN
   $usuario="tuusuario";
