@@ -32,6 +32,6 @@ Incluye herramientas básicas de un editor de código como son:
   
 * Guarda los cambios
 * Sube toda la carpeta "editor" en la raiz de tu servidor
-* Navega a la direccion www.tudominio.com/editor/
+* Navega a la dirección www.tudominio.com/editor/
 
-Logeate y comienza a editar tus paginas en linea
+Logueate y comienza a editar tus páginas en linea
